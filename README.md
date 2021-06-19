@@ -1,2 +1,2 @@
 # my_demo
-this is a demo for create repository
+this is a demo for creating repository
